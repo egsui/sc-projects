@@ -16,7 +16,7 @@ Watch my *[DEMO VIDEOS!]()*
 * [MyPhotoshop](https://github.com/egsui/stanCode_Projects/tree/main/Projects/MyPhotoshop)
   * image processing
 * [Image Processing](https://github.com/egsui/stanCode_Projects/tree/main/Projects/ImageProcessing)
-  * including *image blurring*, *image shrinking*, *detecting fire with red alert*, *green sceen*.
+  * including *image blurring*, *image shrinking*, *detecting fire with red alert*, *green sceen* function.
 * [Breakout Game](https://github.com/egsui/stanCode_Projects/tree/main/Projects/Breakout)
   * animation & game designing
 * [Babynames Popularity Searching System](https://github.com/egsui/stanCode_Projects/tree/main/Projects/Babynames)
