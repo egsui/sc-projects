@@ -2,6 +2,9 @@
 Hello there!\
 This repository holds my programming projects done during the period of stanCode course.
 
+SC101: Programming Abstractions\
+Main topics are: Python syntax and semantics, object oriented programming, image processing, data structure, searching / sorting algorithms and recursive functions. In order to earn a Certification of Completion, the participant has to finish 6 programming projects and score over 70% on 3 assignments, 1 midterm exam and 1 final exam.
+
 Watch my *[DEMO VIDEOS]()* !
 
 ## Project Source Codes:
