@@ -1,21 +1,27 @@
 ## *stanCode* Projects
 Hello there!\
-This repository holds my programming projects done during the period of stanCode SC101 course.
+This repository holds my programming projects done during the period of stanCode course.
 
-Watch my *[DEMO VIDEOS!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISyGzVPLd5Bztdvd7rF?fbclid=IwAR36BW3v_bHn-Idsh-0_ROSWLwrXOzoervZId25OOzH2LX4b6FCGDfULdDg)*
+Watch my *[DEMO VIDEOS!]()*
 
 ## Project Source Codes:
-* [Hangman Game](https://github.com/stanCode-Turing-demo/projects/blob/master/stanCode_Projects/hangman_game/hangman_ext.py)
+* [Hangman Game](https://github.com/egsui/stanCode_Projects/tree/main/Projects/Hangman)
   * python semantics & syntax
-* [Weather Master](https://github.com/stanCode-Turing-demo/projects/blob/master/stanCode_Projects/weather_master/weather_master.py)
+* [Weather Master](https://github.com/egsui/stanCode_Projects/tree/main/Projects/WeatherMaster)
   * python semantics & syntax
-* [MyPhotoshop](https://github.com/stanCode-Turing-demo/projects/blob/master/stanCode_Projects/myphotoshop/best_photoshop_award.py)
+* [Caesar](https://github.com/egsui/stanCode_Projects/tree/main/Projects/Caesar)
+  * python semantics & syntax
+* [Detecting Best match of DNA](https://github.com/egsui/stanCode_Projects/tree/main/Projects/DNA_Similarity)
+  * python semantics & syntax
+* [MyPhotoshop](https://github.com/egsui/stanCode_Projects/tree/main/Projects/MyPhotoshop)
   * image processing
-* [Pedestrian Removing Application](https://github.com/stanCode-Turing-demo/projects/blob/master/stanCode_Projects/pedestrian_removing_application/stanCodoshop.py)
-  * image processing
-* [Breakout Game](https://github.com/stanCode-Turing-demo/projects/blob/master/stanCode_Projects/break_out_game/breakout.py)
+* [Image Processing](https://github.com/egsui/stanCode_Projects/tree/main/Projects/ImageProcessing)
+  * including *image blurring*, *image shrinking*, *detecting fire with red alert*, *green sceen*.
+* [Breakout Game](https://github.com/egsui/stanCode_Projects/tree/main/Projects/Breakout)
   * animation & game designing
-* [Name Popularity Searching System](https://github.com/stanCode-Turing-demo/projects/blob/master/stanCode_Projects/name_popularity_searching_system/babygraphics.py)
+* [Babynames Popularity Searching System](https://github.com/egsui/stanCode_Projects/tree/main/Projects/Babynames)
   * data structure
-* [Boggle Game Solver](https://github.com/stanCode-Turing-demo/projects/blob/master/stanCode_Projects/boggle_game_solver/boggle.py)
+* [Boggle Game Solver](https://github.com/egsui/stanCode_Projects/tree/main/Projects/Boggle)
+  * recursive functions
+* [Anagram](https://github.com/egsui/stanCode_Projects/tree/main/Projects/Anagram)
   * recursive functions
