@@ -5,6 +5,12 @@ This repository holds my programming projects done during the period of stanCode
 Watch my *[DEMO VIDEOS!]()*
 
 ## Project Source Codes:
+* [Babynames Popularity Searching System](https://github.com/egsui/stanCode_Projects/tree/main/Projects/Babynames)
+  * data structure
+* [Boggle Game Solver](https://github.com/egsui/stanCode_Projects/tree/main/Projects/Boggle)
+  * recursive functions
+* [Anagram](https://github.com/egsui/stanCode_Projects/tree/main/Projects/Anagram)
+  * recursive functions
 * [Hangman Game](https://github.com/egsui/stanCode_Projects/tree/main/Projects/Hangman)
   * python semantics & syntax
 * [Weather Master](https://github.com/egsui/stanCode_Projects/tree/main/Projects/WeatherMaster)
@@ -19,9 +25,3 @@ Watch my *[DEMO VIDEOS!]()*
   * including *image blurring*, *image shrinking*, *detecting fire with red alert*, *green sceen* function.
 * [Breakout Game](https://github.com/egsui/stanCode_Projects/tree/main/Projects/Breakout)
   * animation & game designing
-* [Babynames Popularity Searching System](https://github.com/egsui/stanCode_Projects/tree/main/Projects/Babynames)
-  * data structure
-* [Boggle Game Solver](https://github.com/egsui/stanCode_Projects/tree/main/Projects/Boggle)
-  * recursive functions
-* [Anagram](https://github.com/egsui/stanCode_Projects/tree/main/Projects/Anagram)
-  * recursive functions
