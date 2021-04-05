@@ -2,7 +2,7 @@
 Hello there!\
 This repository holds my programming projects done during the period of stanCode course.
 
-Watch my *[DEMO VIDEOS]()*!
+Watch my *[DEMO VIDEOS]()* !
 
 ## Project Source Codes:
 * [Babynames Popularity Searching System](https://github.com/egsui/stanCode_Projects/tree/main/Projects/Babynames)
