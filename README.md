@@ -9,7 +9,7 @@ Watch my *[DEMO VIDEOS!]()*
   * python semantics & syntax
 * [Weather Master](https://github.com/egsui/stanCode_Projects/tree/main/Projects/WeatherMaster)
   * python semantics & syntax
-* [Caesar](https://github.com/egsui/stanCode_Projects/tree/main/Projects/Caesar)
+* [Decipher Caesar Code](https://github.com/egsui/stanCode_Projects/tree/main/Projects/Caesar)
   * python semantics & syntax
 * [Detecting Best match of DNA](https://github.com/egsui/stanCode_Projects/tree/main/Projects/DNA_Similarity)
   * python semantics & syntax
