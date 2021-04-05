@@ -7,7 +7,7 @@ Main topics are: Python syntax and semantics, object oriented programming, image
 
 Watch my *[DEMO VIDEOS]()* !
 
-# Project Source Codes
+### Project Source Codes
 * [Babynames Popularity Searching System](https://github.com/egsui/stanCode_Projects/tree/main/Projects/Babynames)
   * data structure
 * [Boggle Game Solver](https://github.com/egsui/stanCode_Projects/tree/main/Projects/Boggle)
