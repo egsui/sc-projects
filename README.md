@@ -6,7 +6,7 @@ This repository holds my programming projects done during the period of stanCode
 Main topics are: Python syntax and semantics, object oriented programming, image processing, data structure, searching / sorting algorithms and recursive functions. In order to earn a Certification of Completion, the participant has to finish *6 programming projects* and *score over 70% on 3 assignments*, *1 midterm exam and 1 final exam.*
 
 Watch my *[DEMO VIDEOS]()* !\
-[Click to my Google Colab!](https://colab.research.google.com/drive/1mh5fAhL8JhojEK8Tm-eXbOuAFG2J0Stg?usp=sharing)
+Click [here](https://colab.research.google.com/drive/1mh5fAhL8JhojEK8Tm-eXbOuAFG2J0Stg?usp=sharing) to my Google Colab!
 
 ### Project Source Codes
 * [Babynames Popularity Searching System](https://github.com/egsui/stanCode_Projects/tree/main/Projects/Babynames)
