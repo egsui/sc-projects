@@ -3,7 +3,7 @@ Hello there!\
 This repository holds my programming projects done during the period of stanCode course.
 
 ### Programming Abstractions
-Main topics are: Python syntax and semantics, object oriented programming, image processing, data structure, searching / sorting algorithms and recursive functions. *
+Main topics are: Python syntax and semantics, object oriented programming, image processing, data structure, searching / sorting algorithms and recursive functions.
 
 Watch my *[DEMO VIDEOS](https://drive.google.com/drive/folders/1hzNKDgFfIi9V4hjM_JrNr-tUEE0UP_aI?usp=sharing)* !
 
